@@ -1,0 +1,8 @@
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\bin\Debug\Gestor de estoque POO3.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\bin\Debug\Gestor de estoque POO3.exe
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\bin\Debug\Gestor de estoque POO3.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\obj\Debug\Gestor de estoque POO3.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\obj\Debug\Gestor de estoque POO3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\obj\Debug\Gestor de estoque POO3.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\obj\Debug\Gestor de estoque POO3.exe
+C:\Users\PEDRO\Desktop\C# alternativo\guia do programador\projetos\Gestor de estoque POO3\Gestor de estoque POO3\obj\Debug\Gestor de estoque POO3.pdb

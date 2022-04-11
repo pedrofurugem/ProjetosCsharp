@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62b49e56-9d5e-4e30-9e97-ec9cc9056908": {
+      "ProjectGuid": "62b49e56-9d5e-4e30-9e97-ec9cc9056908",
+      "DisplayName": "Gestor de clientes no CMD 2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

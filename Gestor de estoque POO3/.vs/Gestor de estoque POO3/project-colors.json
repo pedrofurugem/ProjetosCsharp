@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8998a8c6-b5bd-4c7c-bab8-cfdb4fd53b7c": {
+      "ProjectGuid": "8998a8c6-b5bd-4c7c-bab8-cfdb4fd53b7c",
+      "DisplayName": "Gestor de estoque POO3",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestor de estoque POO3", "Gestor de estoque POO3\Gestor de estoque POO3.csproj", "{8998A8C6-B5BD-4C7C-BAB8-CFDB4FD53B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8998A8C6-B5BD-4C7C-BAB8-CFDB4FD53B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8998A8C6-B5BD-4C7C-BAB8-CFDB4FD53B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8998A8C6-B5BD-4C7C-BAB8-CFDB4FD53B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8998A8C6-B5BD-4C7C-BAB8-CFDB4FD53B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1CC15E-7E17-48CA-9ECA-CA80A5D50846}
+	EndGlobalSection
+EndGlobal
