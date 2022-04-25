@@ -1,0 +1,11 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\bin\Debug\Condicional.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\bin\Debug\Condicional.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\bin\Debug\Condicional.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Condicional\obj\Debug\Condicional.pdb

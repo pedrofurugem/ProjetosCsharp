@@ -1,0 +1,11 @@
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\bin\Debug\Classe.exe.config
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\bin\Debug\Classe.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\bin\Debug\Classe.pdb
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.csproj.AssemblyReference.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.Form1.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.exe
+C:\Users\PEDRO\Desktop\C# alternativo\apostila Yuri\Classe\obj\Debug\Classe.pdb

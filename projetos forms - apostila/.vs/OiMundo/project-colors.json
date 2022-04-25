@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d3425e0-25ba-471c-b6fb-06fdbab40124": {
+      "ProjectGuid": "0d3425e0-25ba-471c-b6fb-06fdbab40124",
+      "DisplayName": "OiMundo",
+      "ColorIndex": 0
+    },
+    "7bb75061-a596-4d81-b26a-18af2a27488c": {
+      "ProjectGuid": "7bb75061-a596-4d81-b26a-18af2a27488c",
+      "DisplayName": "Condicional",
+      "ColorIndex": 1
+    },
+    "9b099428-7cb0-4cde-ad95-96239f4087b7": {
+      "ProjectGuid": "9b099428-7cb0-4cde-ad95-96239f4087b7",
+      "DisplayName": "classe",
+      "ColorIndex": 2
+    },
+    "64c0aa5e-c7bb-4af0-bbab-8a5b25808f16": {
+      "ProjectGuid": "64c0aa5e-c7bb-4af0-bbab-8a5b25808f16",
+      "DisplayName": "Classe",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
